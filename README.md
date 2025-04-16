@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-## My name is Aryan Orpe. Nice to meet you!
+## I'm Aryan Orpe, nice to meet you! 😄
+
+![](https://komarev.com/ghpvc/?username=aryanorpe&color=bf9b30&abbreviated=true)
 
 I'm a 22 year old Indian living in Dubai, United Arab Emirates (UAE). 🇮🇳🤝🇦🇪
 
