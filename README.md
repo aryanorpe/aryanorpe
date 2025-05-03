@@ -21,12 +21,13 @@ Software Engineer by day and AI Enthusiast by night, I'm looking to grow my AI s
 -->
 # GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aryanorpe&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanorpe&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8&card_width=200" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aryanorpe&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanorpe&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact&langs_count=8&card_width=320" /></a> |
+| ------------- | ------------- |
+
+<!--
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+-->
 
 <!--
 **aryanorpe/aryanorpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
